@@ -1,6 +1,6 @@
 # mKasa
 
-|Wersja|2.0  |
+|Wersja|2.0.0  |
 |--|--|
 |Autor|Daniel Żymek  |
 
