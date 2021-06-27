@@ -4,7 +4,6 @@
 |--|--|
 |Autor|Daniel Żymek  |
 
-[Aplikację możesz pobrać klikając tutaj]()
 
 
 ## Funkcje, których nie zdążyłem jeszcze wprowadzić
