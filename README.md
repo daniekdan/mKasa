@@ -1,22 +1,25 @@
 
 # mKasa
 
-|Wersja|2.3.1  |
+|Wersja|2.5  |
 |--|--|
 |Autor|Daniel Żymek  |
 
 Aby aplikacja została zainstalowana, może być konieczne ręczne odinstalowanie poprzedniej wersji.
-Aplikację możesz pobrać, klikając [tutaj](https://github.com/danzym509/mKasa/releases/download/2.3.1/mKasa.v.2.3.1.apk).
+Aplikację będzie można pobrać z Google Play.
 
-## Zmiany w aktualizacji
-- Aktualizacja bibliotek
-- Dodano nowe zapowiedzi
-- Dodano linię M1
 
-> Linia _M1_ jest dostępna w sterowniku pod następującymi kodami:
-> Kurs 01 w sterowniku jest jako 11; 
-> Kurs 02 w sterowniku jest jako 12; 
-> Kurs 03 w sterowniku jest jako 13; 
-> Kurs 04 w sterowniku jest jako 14; 
-> Kurs 05 w sterowniku jest jako 15; 
+# Kody błędów i ostrzeżeń
+|Kod| Opis |
+|--|--|
+| <p align=center><strong>E1</strong></p> | Brak połączenia z bazą danych. |
+| <p align=center><strong>E2</strong></p>| Błąd podczas logowania użytkownika (autoryzacja danych podanych w formularzu).|
+| <p align=center><strong>E3</strong></p> | Profil użytkownika nie istnieje. |
+| <p align=center><strong>E3a</strong></p> | Błąd podczas pobierania profilu użytkownika. |
+| <p align=center><strong>E3b</strong></p> | Błąd podczas aktualizowania profilu użytkownika. |
+| <p align=center><strong>E4</strong></p> | Błąd podczas księgowania wpisu. Możliwy brak lub słabe połączenie z internetem. |
+| <p align=center><strong>E5</strong></p> | Błąd podczas pobierania dostępnych  tokenów z bazy danych. |
+| <p align=center><strong>E6</strong></p> | Błąd podczas zmiany hasła użytkownika. |
+| <p align=center><strong>E6a</strong></p> | Błąd podczas re-autoryzacji użytkownika nowym hasłem. Wymagane ręczne wpisanie nowego hasła podczas logowania. |
+| <p align=center><strong>E7</strong></p> | Błąd podczas usuwania jednorazowego tokenu użytkownika. Konto w pełni funkcjonalne, jednakże należy zgłosić potrzebę ręcznego usunięcia kodu do dewelopera. [[KLIK]](mailto:danzym509@outlook.com)  |
 
