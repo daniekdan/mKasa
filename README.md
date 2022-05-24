@@ -6,6 +6,7 @@
 |Autor|Daniel Żymek  |
 
 Aby aplikacja została zainstalowana, może być konieczne ręczne odinstalowanie poprzedniej wersji.
+
 Aplikację będzie można pobrać z Google Play.
 
 
